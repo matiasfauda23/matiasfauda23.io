@@ -1,0 +1,7 @@
+<h1>Hola, soy Matias Fauda</h1>
+<p>Bienvenido a mi portfolio de desarrollador Java y .NET</p>
+<h2>Mis Proyectos</h2>
+<ul>
+    <li><a href="LINK_DE_TU_REPO_ECOMMERCE">E-commerce con Spring Boot</a></li>
+    <li><a href="LINK_DE_TU_REPO_CSHARP">Gestión de Catálogo (C#)</a></li>
+</ul>
